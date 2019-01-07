@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Kinect4Unreal-2494.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\russe\Documents\K4U_4.20_1.2_Introduction\K4UIntroduction\Intermediate\Build\Win64\K4UIntroductionEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\russe\Documents\K4U_4.20_1.2_Introduction\K4UIntroduction\Plugins\Kinect4Unreal\Intermediate\Build\Win64\UE4Editor\Development\Kinect4Unreal\Module.Kinect4Unreal.cpp.obj"
+"C:\Users\russe\Documents\K4U_4.20_1.2_Introduction\K4UIntroduction\Plugins\Kinect4Unreal\Intermediate\Build\Win64\UE4Editor\Development\Kinect4Unreal\Module.Kinect4Unreal.gen.cpp.obj"
+"C:\Users\russe\Documents\K4U_4.20_1.2_Introduction\K4UIntroduction\Plugins\Kinect4Unreal\Intermediate\Build\Win64\UE4Editor\Development\Kinect4Unreal\PCLaunch.rc.res"
+/OUT:"C:\Users\russe\Documents\K4U_4.20_1.2_Introduction\K4UIntroduction\Plugins\Kinect4Unreal\Intermediate\Build\Win64\UE4Editor\Development\Kinect4Unreal\UE4Editor-Kinect4Unreal-2494.lib"
