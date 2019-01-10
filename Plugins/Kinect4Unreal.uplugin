@@ -22,5 +22,5 @@
 	"EnabledByDefault": true,
 	"CanContainContent": false,
 	"IsBetaVersion": false,
-	"Installed": false
+	"Installed": true
 }
