@@ -78,3 +78,5 @@ DerivedDataCache/*
 
 !Plugins/Kinect4Unreal/*
 !Plugins/DigitArch/*
+
+Log/*
