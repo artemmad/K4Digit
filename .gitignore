@@ -77,3 +77,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 !Plugins/Kinect4Unreal/*
+!Plugins/DigitArch/*
